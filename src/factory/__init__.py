@@ -1,4 +1,4 @@
 """
-třídy pro vytvoření factory a jejích workerů
+Balíček pro tvorbu factory.
 """
-__all__ = []
+__all__=[]
