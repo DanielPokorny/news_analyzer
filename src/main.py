@@ -1,6 +1,7 @@
 """
 Aplikace pro monitorování RSS kanálů a tvorbu kanálů obahujících zájmové
 informace.
+tohle smazat
 """
 from factory import worker
 
